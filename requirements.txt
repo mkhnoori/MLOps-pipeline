@@ -1,0 +1,14 @@
+pandas # pandas is used for data analysis
+notebook # notebook is used for jupyter notebook
+numpy # numpy is used for numerical operations
+scikit-learn # scikit-learn is used for machine learning
+matplotlib # matplotlib is used for data visualization
+python-box==6.0.2 # python-box is used for type checking
+pyyaml # pyyaml is used for reading yml files
+tqdm # tqdm is used for progress bar
+ensure==1.0.2 # ensure is used for type checking
+joblib # joblib is used for saving the model
+types-pyyaml # types-pyyaml is used for type checking yml
+flask # flask is used for web application
+flask-cors # flask-cors is used for cross origin resource sharing
+-e . # -e is used for editable mode the setup.py file

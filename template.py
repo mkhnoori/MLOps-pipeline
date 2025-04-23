@@ -1,3 +1,4 @@
+# this file is used to create the project structure
 import os
 from pathlib import Path
 import logging
@@ -45,3 +46,5 @@ for filepath in list_of_files:
 
     else:
         logging.info(f"{filename} already exists")
+
+# run python template.py to create the project structure
